@@ -16,5 +16,6 @@ public class test1 {
 	ages=user.getAge();
 	System.out.println(user);
 	System.out.println("二次");
+	System.out.println("三次");
 }
 }
