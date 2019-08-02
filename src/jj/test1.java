@@ -19,5 +19,6 @@ public class test1 {
 	System.out.println("三次");
 	System.out.println("四次");
 	System.out.println("五次");
+	System.out.println("六次");
 }
 }
